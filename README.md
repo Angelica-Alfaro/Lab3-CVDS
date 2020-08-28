@@ -24,11 +24,11 @@
 
 1.La excepción ``` ExcepcionParametrosInvalidos ``` debería arrojarse cuando:
 
-	*  ``` edad <= 0 || edad > 130 ```
+ * ``` edad <= 0 || edad > 130 ```
 
-	*  ``` diasAntelacion < 0 ```
+ * ``` diasAntelacion < 0 ```
 
-	*  ``` tarifaBase < 0 ``` 
+ * ``` tarifaBase < 0 ``` 
 
 2. 
 ![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla2.PNG)
