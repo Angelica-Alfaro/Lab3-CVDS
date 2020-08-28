@@ -30,11 +30,14 @@
 
 	* 'tarifaBase < 0'
 
-2. ![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla2.PNG)
+2. 
+![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla2.PNG)
 
-3. ![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla3.PNG)
+3. 
+![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla3.PNG)
 
-4. ![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla4.PNG)
+4. 
+![](https://github.com/Angelica-Alfaro/Lab3-CVDS/blob/master/Anexo/Tabla4.PNG)
 
 5.   * ***Edad inválida:*** Se toma un valor por debajo del límite inferior 'edad = -5'
 
@@ -54,7 +57,7 @@
 
 Para las pruebas:
 
-" public void validateEdadInvalida() "\
+``` public void validateEdadInvalida() ```\
 ' public void validateAntelacionInvalida() '\
 'public void validateTarifaInvalida()'\
 'public void validateDescuento15()'\
